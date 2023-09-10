@@ -2,7 +2,7 @@
 
 This is a Task Management App with authentication which is implemented using a PERN technologies (PostgreSQL, Express.js, React.js, Node.js). The application allows users to create, manage, and track their task while providing user authentication to secure the application.
 
-![Alt Text](https://ibb.co/SymKThZ)
+![Alt Text](https://i.postimg.cc/9fqJPP64/Screenshot-617.png)
 
 ## Features
 

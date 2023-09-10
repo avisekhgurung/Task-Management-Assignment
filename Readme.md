@@ -8,10 +8,10 @@ This is a Task Management App with authentication which is implemented using a P
 
 - **User signup**: Users can create an account by providing a unique username and password.
 - **User login**: Registered users can log in to the application using their credentials.
-- **TASK creation**: Users can create new TASKs by providing a title and description.
-- **TASK listing**: Users can view a list of all their TASKs along with their status.
-- **TASK updating**: Users can update the title, description, and status of existing TASKs.
-- **TASK deletion**: Users can delete unwanted TASKs.
+- **TASK creation**: Users can create new tasks by providing a title and description.
+- **TASK listing**: Users can view a list of all their tasks along with their status.
+- **TASK updating**: Users can update the title, description, and status of existing tasks.
+- **TASK deletion**: Users can delete unwanted tasks.
 - **User logout**: Logged-in users can log out from the application.
   
 ## Installation

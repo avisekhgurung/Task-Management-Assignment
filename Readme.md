@@ -36,6 +36,10 @@ npm install
   ```
 Before running server, sql query is provide in database.sql , please use those query to create db and tables 
 
+```
+![Alt Text](https://i.postimg.cc/x8KdLZRs/Screenshot-624.png)
+
+
 7. Start the server:
  ```
 npm run server

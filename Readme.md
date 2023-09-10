@@ -34,7 +34,7 @@ npm install
 cd client
 npm install
   ```
-Before running server, sql query is provide in database.sql , please use those query to create db and tables 
+Before running server, sql query is provide in database.sql , please use those query to create db and tables otherwise it will give 500 error in all request
 
 ```
 ![Alt Text](https://i.postimg.cc/x8KdLZRs/Screenshot-624.png)

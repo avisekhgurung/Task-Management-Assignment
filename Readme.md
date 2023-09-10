@@ -20,7 +20,7 @@ To run the PERN Todo App with Authentication locally, follow these steps:
 
 1. Clone the repository:
   ```
-   git clone https://github.com/melos-simeneh/PERN-Todo-App-with-Authentication.git
+   https://github.com/avisekhgurung/Task-Management-Assignment.git
   ```
 3. Navigate to the project directory:
   ```
